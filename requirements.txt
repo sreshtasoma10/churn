@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+xlsxwriter
+watchdog==6.0.0
+urllib3==2.4.0
